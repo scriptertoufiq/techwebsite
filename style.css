@@ -1,3 +1,15 @@
-.course-info > a{
+.course-info>a {
     text-decoration: none;
+}
+
+.bg-light-green {
+    background-color: rgb(232, 241, 238);
+}
+
+.fs-50 {
+    font-size: 50px;
+}
+
+.ratings i{
+    color: gold;
 }
